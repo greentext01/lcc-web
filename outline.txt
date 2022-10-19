@@ -1,0 +1,69 @@
+Use replit, or any other IDE
+
+Python time!
+* Hello world! + (ask them to infer how print works)
+* String escape characters
+* Printing without a newline
+* Comments
+
+* Variables
+* simple data types
+* f-strings
+
+* Arithmethic (however you spell that)
+
+* Input
+* try-except
+
+More complicated stuff (tell them to use Google if unsure)
+* if
+* bool operators
+
+* for
+* range
+* lists
+* sorting
+
+* while
+* while True
+
+* dicts
+* sets
+* tuples
+
+* Functions
+
+* Importing & pip!
+* Libraries
+
+
+Explain this with C programs
+* Memory
+* Main data types (int, float, bool, char)
+* Arrays
+* Normal arrays can't be extended!
+
+
+Web stuff (have a Twitter app already set up)
+HTML (don't teach them CSS)
+
+TS (yes go right to TS, skip JS)
+* Go through the Python section, but with JS syntax
+* Using JS
+
+The good part!
+* Create django app
+* Set up the app
+* Routes
+* Templates
+* programmatic function in templates
+
+* Auth -> custom user model
+
+* Models
+* Forms
+* Model-forms
+
+* Bootstrap 🚀
+
+The bad part
